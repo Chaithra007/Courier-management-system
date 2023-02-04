@@ -44,3 +44,5 @@ the create file
 4. update.py: In this file, you can update the details of a selected item that 
 already exists in the database and see the changes in the UI itself
 
+
+Run the command streamlit run app.py
